@@ -8,7 +8,7 @@ Estava procurando pequenos 'PROJETOS GRATUITOS' para praticar JavaScript e encon
 
 * O portal de pizzas se baseia em você escolher uma pizza, selecionar o tamanho: pequena, média e grande, adicionar ao carrinho de compras ou cancelar.
 
-* O carrinho de compras tem as informações da pizza escolhida, subtotal e o total. Caso você tenha escolhido uma pizza e queira inserir mais uma ou remover da quantidade escolhida, o preço e irá se alterar. Durante esse processo você pode inserir pizzas de vários sabores.
+* O carrinho de compras tem as informações da pizza escolhida, subtotal e o total. Caso você tenha escolhido uma pizza e queira inserir mais uma ou remover da quantidade escolhida, o preço irá se alterar. Durante esse processo você pode inserir pizzas de vários sabores.
 
 
 * INFORMAÇÕES TÉCNICAS *
