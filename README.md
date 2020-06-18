@@ -4,7 +4,7 @@
 Estava procurando pequenos 'PROJETOS GRATUITOS' para praticar JavaScript e encontrei um bem interessante no site: https://alunos.b7web.com.br/curso/javascript/introducao
 
 
-* O projeto irá abrangir apenas o uso do javascript, o html, css e as imagens estão disponíveis pra download durante o curso pra não perder muito tempo e ir direto para a prática.
+* O projeto irá abrangir apenas o uso do javascript. O html, css e as imagens estão disponíveis pra download durante o curso pra não perder muito tempo e ir direto para a prática.
 
 * O portal de pizzas se baseia em você escolher uma pizza, selecionar o tamanho: pequena, média e grande, adicionar ao carrinho de compras ou cancelar.
 
