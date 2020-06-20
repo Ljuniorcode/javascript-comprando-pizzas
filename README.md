@@ -1,4 +1,4 @@
-![pizzas](https://user-images.githubusercontent.com/59096165/84930296-6ba19500-b0a7-11ea-8269-ecbeb6d9c307.PNG)
+![pizzas maravilhosas](https://user-images.githubusercontent.com/59096165/85187725-00f38380-b278-11ea-9f57-5681b61f9687.PNG)
 
 
 Estava procurando pequenos 'PROJETOS GRATUITOS' para praticar JavaScript e encontrei um bem interessante no site: https://alunos.b7web.com.br/curso/javascript/introducao
@@ -19,5 +19,5 @@ Estava procurando pequenos 'PROJETOS GRATUITOS' para praticar JavaScript e encon
 - Arrays: forEach(), splice(), concat(), sort(), reverse(), find(), findIndex()
 - Intervalos: setInterval(), setTimeout()
 
-obs: este README será alterado em breve.
+
 
