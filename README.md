@@ -1,8 +1,6 @@
 ![pizzas maravilhosas](https://user-images.githubusercontent.com/59096165/85187725-00f38380-b278-11ea-9f57-5681b61f9687.PNG)
 
-
-Estava procurando pequenos 'PROJETOS GRATUITOS' para praticar JavaScript e encontrei um bem interessante no site: https://alunos.b7web.com.br/curso/javascript/introducao
-
+PIZZAS SABOROSAS
 
 * O projeto irá abrangir apenas o uso do javascript. O html, css e as imagens estão disponíveis para download durante o curso pra não perder muito tempo e ir direto para a prática.
 
