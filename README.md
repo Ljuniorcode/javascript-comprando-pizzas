@@ -20,7 +20,7 @@ O projeto foi criado para simular um carrinho de compras de uma pizzaria, usei a
 
 - O carrinho de compras tem as informações da pizza escolhida, subtotal e o total.
 
-- O carrinho de compras tem as informações da pizza escolhida, subtotal e o total. Caso você tenha escolhido uma pizza e queira inserir mais uma ou remover da quantidade escolhida, o preço irá se alterar.
+- Caso você tenha escolhido uma pizza e queira inserir mais uma ou remover da quantidade escolhida, o preço irá se alterar.
 
 - Durante esse processo você pode inserir pizzas de vários sabores.
 
